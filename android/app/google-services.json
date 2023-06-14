@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "527879496518",
+    "project_id": "vacancy-search",
+    "storage_bucket": "vacancy-search.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527879496518:android:2eef09689ce171d6f0fb47",
+        "android_client_info": {
+          "package_name": "com.example.vacancy_search"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527879496518-5r3l271v67ol4a8dqpjd1btkkssjmd2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSN4Ostu11kPM64_TNqwVTlF8Iz84ywAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527879496518-5r3l271v67ol4a8dqpjd1btkkssjmd2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
